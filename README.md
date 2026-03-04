@@ -66,7 +66,7 @@ This project is ideal for practicing:
 
 ---
 
-## Demo & Screenshots
+## Screenshots
 
 ![Screenshot of Deployed Website](/src/assets/Screenshot1.png)
 
