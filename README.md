@@ -85,7 +85,7 @@ This project is ideal for practicing:
 git clone https://github.com/fabioesilveira/ShoppingCart-simulator.git
 
 # Enter the project folder
-ShoppingCart-simulator
+cd ShoppingCart-simulator
 
 # Install dependencies
 npm install
