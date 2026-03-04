@@ -1,4 +1,4 @@
-# 🛒 Shopping Cart Simulator
+# Shopping Cart Simulator
 
 This project is a **React-based shopping cart simulation** that demonstrates how to manage state, perform API requests, handle forms with validation, and simulate a real checkout flow using modern React tools.
 
@@ -82,10 +82,10 @@ This project is ideal for practicing:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/fabioesilveira/ShoppingCart-simulator.git
 
 # Enter the project folder
-cd your-repo-name
+ShoppingCart-simulator
 
 # Install dependencies
 npm install
